@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Finanacial-agency/static/css/main.5b60782c.chunk.css",
+    "main.js": "/Finanacial-agency/static/js/main.79891789.chunk.js",
+    "main.js.map": "/Finanacial-agency/static/js/main.79891789.chunk.js.map",
+    "runtime-main.js": "/Finanacial-agency/static/js/runtime-main.7a3fe401.js",
+    "runtime-main.js.map": "/Finanacial-agency/static/js/runtime-main.7a3fe401.js.map",
+    "static/js/2.60b1c4b7.chunk.js": "/Finanacial-agency/static/js/2.60b1c4b7.chunk.js",
+    "static/js/2.60b1c4b7.chunk.js.map": "/Finanacial-agency/static/js/2.60b1c4b7.chunk.js.map",
+    "index.html": "/Finanacial-agency/index.html",
+    "static/css/main.5b60782c.chunk.css.map": "/Finanacial-agency/static/css/main.5b60782c.chunk.css.map",
+    "static/js/2.60b1c4b7.chunk.js.LICENSE.txt": "/Finanacial-agency/static/js/2.60b1c4b7.chunk.js.LICENSE.txt",
+    "static/media/Hero.css": "/Finanacial-agency/static/media/hero.8562676a.jpg",
+    "static/media/john-doe.e4675f12.png": "/Finanacial-agency/static/media/john-doe.e4675f12.png",
+    "static/media/logo.014fa922.png": "/Finanacial-agency/static/media/logo.014fa922.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a3fe401.js",
+    "static/js/2.60b1c4b7.chunk.js",
+    "static/css/main.5b60782c.chunk.css",
+    "static/js/main.79891789.chunk.js"
+  ]
+}
